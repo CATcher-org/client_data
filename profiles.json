@@ -2,31 +2,31 @@
     "profiles": [
         {
             "profileName": "CS2103/T Smoke Test",
-            "repoName": "nus-cs2103-AY2425S1/catcher-smoke-test"
+            "repoName": "nus-cs2103-AY2425S2/catcher-smoke-test"
         },
         {
             "profileName": "CS2103/T PE Dry run",
-            "repoName": "nus-cs2103-AY2425S1/ped"
+            "repoName": "nus-cs2103-AY2425S2/ped"
         },
         {
             "profileName": "CS2103/T PE",
-            "repoName": "nus-cs2103-AY2425S1/pe"
+            "repoName": "nus-cs2103-AY2425S2/pe"
         },
         {
             "profileName": "CS2113 Smoke Test",
-            "repoName": "nus-cs2113-AY2425S1/catcher-smoke-test"
+            "repoName": "nus-cs2113-AY2425S2/catcher-smoke-test"
         },
         {
             "profileName": "CS2113 PE Dry run",
-            "repoName": "nus-cs2113-AY2425S1/ped"
+            "repoName": "nus-cs2113-AY2425S2/ped"
         },
         {
             "profileName": "CS2113 PE",
-            "repoName": "nus-cs2113-AY2425S1/pe"
+            "repoName": "nus-cs2113-AY2425S2/pe"
         },
         {
             "profileName": "CS2103/T Tutors",
-            "repoName": "CATcher-testbed/alpha10"
+            "repoName": "CATcher-testbed/alpha11"
         }
     ]
 }
